@@ -1,1 +1,2 @@
-Softaware Engineering is the process of designing, developing, and impleting applications for a certain purpose.
+Softaware Engineering is the systematic way of creating, designing, developing and implementing  software applications for a certain purpose.
+
